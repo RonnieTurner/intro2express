@@ -1,6 +1,6 @@
 # intro2express
 
-Multiple examples of simple expressJS use case with ample comments to explain each new method 
+Multiple examples of simple expressJS use cases with ample comments to explain each new method 
 
 The folders are saved in chronological order.
 
